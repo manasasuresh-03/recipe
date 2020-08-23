@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Know Me</title>
+</head>
+<body>
+	<h2>Favorite Foods</h2>
+	<ul>
+	    <li>Pizza</li>
+	    <li>Sorbet</li>
+	    <li>Hashbrowns</li>
+	    <li>Momos</li>
+	</ul><br>
+
+
+	<h2>Achievements</h2>
+	<p>Many of us have tried to keep ourselves busy during this lockdown. We have tried baking, working out, DIYs and many more things.<br>
+           I have mastered the art of cooking. Apart from the usual Indian food, I have tried Continental and Italian.
+	Here are some of my achievements.<br>
+	<ol>
+	    <li>Indian <br> <progress min="0" max="100" value="70"></progress>
+	    </li>
+	    <li>Continental <br> <progress min="0" max="100" value="25"></progress>
+	    </li>
+	    <li>Italian <br> <progress min="0" max="100" value="50"></progress>
+	    </li>
+	</ol>
+	Developing new skills has been an important outcome of this lockdown.<br>I've tried baking during this pandemic.
+Here is a pic of the cake I baked.
+	<img src="imgs/cake.jpg" alt="cake"/>
+	</p>
+
+
+	<h2>More About Me</h2>
+	<p>I've done my schooling from Mitra Academy in Bangalore. Currently, I'm pursuing my Engineering degree from BMSIT, Bangalore.<br>
+I love to dance and watch movies. 
+	</p>
+</body>
+</html>
+
+
+
+<a href="http://intro-webdesign.com">Web Design</a>
